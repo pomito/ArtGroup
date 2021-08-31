@@ -20,5 +20,8 @@
     "bootstrap": "^5.1.0",
     "prettier": "^2.3.2",
     "swiper": "^7.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.51.1"
   }
 }
