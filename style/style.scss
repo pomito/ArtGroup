@@ -35,50 +35,65 @@ p {
   font-family: "Lato", sans-serif;
 }
 
-.bg_aliceBlue {
+.bg--aliceBlue {
   background-color: $aliceBlue;
 }
 
-.font_softRed {
+.font--softRed {
   color: $softRed;
 }
 
-.font_rockBlue {
+.font--rockBlue {
   color: $rockBlue;
 }
 
-.font_white {
+.font--white {
   color: $white;
 }
 
-.font-135 {
+.fon--135 {
   font-size: 13.5px;
 }
 
-.font-27 {
+.fon--27 {
   font-size: 27px;
 }
 
-.font-36 {
+.font--36 {
   font-size: 36px;
 }
 
-.font-40 {
+.font--40 {
   font-size: 40px;
 }
 
-.font-bold {
+.font--bold {
   font-weight: bold;
 }
 
-.zindex-1 {
+.zindex--1 {
   z-index: -1;
 }
 
-.mb-80 {
+.mb--80 {
   margin-bottom: 80px;
 }
 
+.t--m40{
+  top: -40px;
+}
+
+.t--m70{
+  top: -70px;
+}
+
+.mt--55{
+  margin-top: 55px;
+}
+
+.mt--155{
+  margin-top: 155px;
+}
 .box-shadow {
   box-shadow: 0px 5px 10px rgba(220, 220, 220, 1);
   -webkit-box-shadow: 0px 5px 10px rgba(220, 220, 220, 1);
