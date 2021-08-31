@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Playfair+Display:wght@400;700&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+}
+
+.bg_aliceBlue {
+  background-color: #F5F7FA;
+}
+
+.font_softRed {
+  color: #E2536B;
+}
+
+.font_rockBlue {
+  color: #8D97AD;
+}
+
+.font-135 {
+  font-size: 13.5px;
+}
+
+.font-27 {
+  font-size: 27px;
+}
+
+.font-36 {
+  font-size: 36px;
+}
+
+.font-40 {
+  font-size: 40px;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.zindex-1 {
+  z-index: -1;
+}
+
+.mb-80 {
+  margin-bottom: 80px;
+}
+
+.box-shadow {
+  box-shadow: 0px 5px 10px gainsboro;
+  -webkit-box-shadow: 0px 5px 10px gainsboro;
+  -moz-box-shadow: 0px 5px 10px gainsboro;
+}
+
+@media screen and (min-width: 1920px) {
+  .container-1640 {
+    max-width: 1640px;
+  }
+}
